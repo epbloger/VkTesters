@@ -1,1 +1,2 @@
 # VkTesters
+See "bugreports"
